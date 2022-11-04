@@ -1,4 +1,4 @@
 MyProfile
-Technolog stack:HTML5
+Technology stack:HTML5
 IDE->VS code
 
